@@ -1,71 +1,69 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Subscription_tracker
+#### Deployed link : https://subscription-trackerr.netlify.app/
 
-## Available Scripts
+This is a web application built with React and Chakra UI that allows users to easily manage and track their various subscriptions. The app enables users to subscribe or unsubscribe to different apps, choose between monthly and yearly plans, and calculate the total cost of their subscriptions.
 
-In the project directory, you can run:
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+User Authentication : Users can sign up, sign in, and have personalized homepages after authentication.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Subscription Management : Add and remove subscriptions for various apps with a simple click.
 
-### `npm test`
+Flexible Plans : Users can choose between monthly and yearly subscription plans for each app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Cost Calculation : Displays the total cost for both monthly and yearly subscribed apps.
 
-### `npm run build`
+Persistent Data : All user data, including subscriptions and preferences, is stored in localStorage.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**React:**  A JavaScript library for building user interfaces.
 
-### `npm run eject`
+**Chakra UI:** A modern and responsive UI library for styling components.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**React Router:** Used for routing between different pages.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**LocalStorage:** To store user data, authentication, and subscription information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**uuid:** For generating unique user IDs.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![App Screenshot](https://i.ibb.co/QfD7pfs/st-ws.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![App Screenshot](https://i.ibb.co/br1dW82/st-ws2.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Installation
 
-### Analyzing the Bundle Size
+Clone the Repository :-
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+git clone https://github.com/rdrkshkhrn/Subscription_tracker.git
 
-### Making a Progressive Web App
+Navigate to the project directory : cd subscription-tracker
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Install dependencies:
+npm install
 
-### Advanced Configuration
+Run the application:
+npm start
+    
+The application will run at http://localhost:3000.
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions are welcome! If you'd like to contribute to the project, feel free to open a pull request or create an issue for discussion. Here's how you can contribute:
 
-### Deployment
+Fork the repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Create a new branch (git checkout -b feature-branch).
 
-### `npm run build` fails to minify
+Make your changes and commit them (git commit -m 'Added new feature').
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Subscription_tracker" 
+Push to the branch (git push origin feature-branch).
+
+Create a pull request.
+
