@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Netflix",
+    "image_link": "https://img.etimg.com/thumb/width-420,height-315,imgsize-17376,resizemode-75,msid-94945321/news/international/us/netflix-launches-new-profile-transfer-feature-details-here.jpg",
+    "monthly_charges": 149,
+    "yearly_charges": 1788,
+    "homepage_link": "https://www.netflix.com/"
+  },
+  {
+    "id": 2,
+    "name": "Amazon Prime Video",
+    "image_link": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+    "monthly_charges": 179,
+    "yearly_charges": 1499,
+    "homepage_link": "https://www.primevideo.com/"
+  },
+  {
+    "id": 3,
+    "name": "Disney+ Hotstar",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnYHTexAosheIETwru5ApQ-KBs1xa2xgTng&s",
+    "monthly_charges": 299,
+    "yearly_charges": 1499,
+    "homepage_link": "https://www.hotstar.com/"
+  },
+  {
+    "id": 4,
+    "name": "SonyLIV",
+    "image_link": "https://play-lh.googleusercontent.com/4VsxQM_JpvxB-qlQaVmYiZMZd9YCUs6AIxUfKADL9iZF-sl2Cmz3vjBebtlV0KI2DNs",
+    "monthly_charges": 299,
+    "yearly_charges": 999,
+    "homepage_link": "https://www.sonyliv.com/"
+  },
+  {
+    "id": 5,
+    "name": "ZEE5",
+    "image_link": "https://www.agencyreporter.com/wp-content/uploads/2023/01/Zee5-top-ott-app2.jpg",
+    "monthly_charges": 399,
+    "yearly_charges": 999,
+    "homepage_link": "https://www.zee5.com/"
+  },
+  {
+    "id": 7,
+    "name": "Apple TV+",
+    "image_link": "https://images.news18.com/ibnlive/uploads/2024/03/apple-tv-ads-plan-2024-03-f016b9c996f18766cad1831b9f00641c.jpg?impolicy=website&width=640&height=480",
+    "monthly_charges": 99,
+    "yearly_charges": 999,
+    "homepage_link": "https://tv.apple.com/"
+  },
+  {
+    "id": 8,
+    "name": "ALTBalaji",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5TMxtsLDYktmhkGPkNwOkBd24PqLZssz7g&s",
+    "monthly_charges": 100,
+    "yearly_charges": 300,
+    "homepage_link": "https://www.altbalaji.com/"
+  },
+  {
+    "id": 9,
+    "name": "MX Player",
+    "image_link": "https://mxplayerpc.com/images/uploads/blog/2022-08-30/news-gbqqb-rs-wX-700-hX-400.jpg",
+    "monthly_charges": 199,
+    "yearly_charges": 1199,
+    "homepage_link": "https://www.mxplayer.in/"
+  },
+  {
+    "id": 10,
+    "name": "Eros Now",
+    "image_link": "https://filminformation.com/wp-content/uploads/2023/02/eros-new-new.jpg",
+    "monthly_charges": 99,
+    "yearly_charges": 399,
+    "homepage_link": "https://erosnow.com/"
+  },
+  {
+    "id": 11,
+    "name": "YouTube Premium",
+    "image_link": "https://i.cdn.newsbytesapp.com/images/l120231125185235.jpeg",
+    "monthly_charges": 129,
+    "yearly_charges": 1290,
+    "homepage_link": "https://www.youtube.com/premium"
+  },
+  {
+    "id": 12,
+    "name": "Hoichoi",
+    "image_link": "https://images.ottplay.com/articles/2021q2/Should_you_subscribe_OTTplay_news_cover_image_1_836.jpeg",
+    "monthly_charges": 149,
+    "yearly_charges": 399,
+    "homepage_link": "https://www.hoichoi.tv/"
+  },
+  {
+    "id": 13,
+    "name": "ShemarooMe",
+    "image_link": "https://i.gadgets360cdn.com/large/shemaroome-logo_1545397866714.jpg",
+    "monthly_charges": 129,
+    "yearly_charges": 499,
+    "homepage_link": "https://www.shemaroome.com/"
+  },
+  {
+    "id": 14,
+    "name": "Discovery+",
+    "image_link": "https://us1-prod-images.disco-api.com/2021/1/4/31ca7f0b-f57f-4254-b84e-b1c2bab210a6.png?w=600",
+    "monthly_charges": 199,
+    "yearly_charges": 999,
+    "homepage_link": "https://www.discoveryplus.com/"
+  },
+  {
+    "id": 15,
+    "name": "Sun NXT",
+    "image_link": "https://telecomtalk.info/wp-content/uploads/2019/01/vodafone-idea-sun-nxt-content.png",
+    "monthly_charges": 50,
+    "yearly_charges": 480,
+    "homepage_link": "https://www.sunnxt.com/"
+  },
+  {
+    "id": 16,
+    "name": "Aha",
+    "image_link": "https://blog.aha.video/wp-content/uploads/2022/04/2-1.jpg",
+    "monthly_charges": 149,
+    "yearly_charges": 399,
+    "homepage_link": "https://www.aha.video/"
+  },
+  {
+    "id": 17,
+    "name": "JioCinema",
+    "image_link": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/05/jiocinema-premium-1716636368.jpg",
+    "monthly_charges": 99,
+    "yearly_charges": 999,
+    "homepage_link": "https://www.jiocinema.com/"
+  },
+  {
+    "id": 18,
+    "name": "ManoramaMAX",
+    "image_link": "https://img.manoramamax.com/164556/375x375_MAXOriginals_164556_37db6e0e-a78c-4ab3-b7b0-4d95a0a74321.jpg",
+    "monthly_charges": 49,
+    "yearly_charges": 199,
+    "homepage_link": "https://www.manoramamax.com/"
+  },
+  {
+    "id": 19,
+    "name": "Lionsgate Play",
+    "image_link": "https://play-lh.googleusercontent.com/QqDDzy3LMtCfpfRhAVA8JTadBCV5377oKoGopKJzl5trZxvfyPWAK4RwibfNZLOBqw",
+    "monthly_charges": 99,
+    "yearly_charges": 699,
+    "homepage_link": "https://lionsgateplay.com/"
+  },
+  {
+    "id": 20,
+    "name": "Viu",
+    "image_link": "https://gameon.ais.co.th/api/cms-data-service/product/e5ceb705-4cc7-49c4-92cc-5503c99f56a9-ign-2022-10-11-MyAIS-Top-Up-Card_VIU.jpg",
+    "monthly_charges": 99,
+    "yearly_charges": 599,
+    "homepage_link": "https://www.viu.com/"
+  },
+  {
+    "id": 21,
+    "name": "Epic On",
+    "image_link": "https://gumlet-images.assettype.com/afaqs%2F2023-07%2Fffbf0865-4d3a-4f63-9998-855ef3a35961%2FEpicON_Original.jpg?format=webp&w=480&dpr=2.6",
+    "monthly_charges": 49,
+    "yearly_charges": 299,
+    "homepage_link": "https://www.epicon.in/"
+  },
+  {
+    "id": 22,
+    "name": "Spuul",
+    "image_link": "https://img.etimg.com/thumb/msid-53906333,width-480,height-360,imgsize-83112,resizemode-75/spuul.jpg",
+    "monthly_charges": 150,
+    "yearly_charges": 1500
+  }
+]
